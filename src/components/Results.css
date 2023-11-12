@@ -1,0 +1,12 @@
+table{
+    border-collapse: collapse;
+    width:50%;
+    justify-content: center;
+    height: 50vh;
+    margin-left: 20rem;
+}
+th,td{
+    padding: 0.5rem;
+    text-align: center;
+    border-bottom: 1px solid white;
+}

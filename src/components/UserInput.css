@@ -1,0 +1,17 @@
+.input-group{
+    list-style: none;
+    display: flex;
+    /* padding: 1rem; */
+    /* margin: 2rem; */
+}
+.user-input{
+    max-width: 50rem;
+    padding: 1rem;
+    margin: 2rem auto;
+    border-radius: 3px;
+    background: linear-gradient(180deg, #307e6c, #2b996d);
+
+}
+.input-group li{
+    padding: 0.5rem;
+}
